@@ -1,0 +1,35 @@
+a.Link
+{
+    font-family: Segoe UI;
+    font-size:25;
+    color: white;
+    padding: 50px;
+    text-decoration: none;
+}
+
+#Header
+{
+    display: absolute;
+    margin-top: -20px;
+    margin-left: -8px;
+    width: 100vw;
+    background-color: #752b21;
+}
+
+#Titulo
+{
+    margin-top: 25px;
+    margin-left: 80px;
+    display: inline-block;
+    width:30vw;
+    color: white;
+    font-family: Segoe UI Light;
+}
+
+#ContenidoHeader
+{
+    position: relative;
+    top:-4px;
+    left: 40px;
+    display: inline-block;
+}
